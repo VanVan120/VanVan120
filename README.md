@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Hi%20there,%20I'm%20VanVan120%20👋&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlignY=38" width="100%"/>
 </div>
 
-<br/>
-
-<a href="https://github.com/VanVan120">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=VanVan120&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
 ### 👨‍💻 About Me
 
 <a href="https://git.io/typing-svg">
@@ -20,17 +14,14 @@ I'm a developer with a passion for building complex systems—from **NLP & Medic
 * 🔭 **Oral Cancer Detection and Oral Squamous Cell Carcinoma(OSCC) Analysis** using Deep Learning.
 * 💻 Refactoring **JavaFX Tetris** architecture.
 
-<br clear="right"/>
-<br/>
 
 ---
 
 <div align="center">
   <h2>🛠️ Technology Stack</h2>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,opencv,tensorflow,java,spring,php,mysql,js,html,css,git,github,idea,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,c,java,php,mysql,js,html,css,git,github,idea,vscode&perline=7" />
 </div>
 
-<br/>
 
 ---
 
@@ -38,7 +29,6 @@ I'm a developer with a passion for building complex systems—from **NLP & Medic
   <h2>🏆 Featured Projects</h2>
 </div>
 
-<br/>
 <h3>🇲🇾 Malay-to-Code-LLM</h3>
 <blockquote>
   <strong>Use Case:</strong> AI Code Generation for Bahasa Melayu<br/><br/>
