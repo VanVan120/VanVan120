@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Ivan%20Char%20Cheng%20Jun&fontSize=52&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Engineer%20%C2%B7%20University%20of%20Nottingham%20Malaysia&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Ivan%20Char%20Cheng%20Jun&fontSize=52&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Engineer%20%C2%B7%20University%20of%20Nottingham%20Malaysia&descSize=18&descAlignY=56" width="100%"/>
 
   <a href="https://www.linkedin.com/in/ivan-char-cheng-jun">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
