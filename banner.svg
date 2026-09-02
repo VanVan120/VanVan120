@@ -1,0 +1,18 @@
+<svg width="1280" height="280" viewBox="0 0 1280 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="45%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#9333EA"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="280" fill="url(#bg)"/>
+  <path d="M0,220 C240,160 420,270 640,230 C860,190 1040,260 1280,200 L1280,280 L0,280 Z" fill="url(#wave)"/>
+  <path d="M0,245 C280,200 520,285 780,245 C1000,212 1120,270 1280,235 L1280,280 L0,280 Z" fill="#ffffff" fill-opacity="0.08"/>
+  <text x="640" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF" text-anchor="middle">Ivan Char Cheng Jun</text>
+  <text x="640" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#E0E7FF" text-anchor="middle">AI &amp; Full-Stack Engineer · University of Nottingham Malaysia</text>
+</svg>
