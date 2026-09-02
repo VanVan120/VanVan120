@@ -12,7 +12,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=753BBD&center=true&vCenter=true&width=520&lines=AI+%26+Full-Stack+Engineer;1st-Author+ML+Research+(Under+Review);Laravel+%2F+Vue+%2F+Next.js+in+Production;Computer+Vision+%26+Deep+Learning" alt="AI and Full-Stack Engineer · First-author ML research under review · Laravel, Vue and Next.js in production · Computer Vision and Deep Learning" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=753BBD&center=true&vCenter=true&width=520&lines=AI+%26+Full-Stack+Engineer;Building+Agentic+AI+(FYP);1st-Author+ML+Research+(Under+Review);Laravel+%2F+Vue+%2F+Next.js+in+Production" alt="AI and Full-Stack Engineer · Building Agentic AI FYP · First-author ML research under review · Laravel, Vue and Next.js in production" />
   </a>
 
   <br/>
@@ -27,6 +27,7 @@
 
 Computer Science (AI) student at the **University of Nottingham Malaysia** (Class of 2027) who ships systems that real people use — from **production ERP platforms** to **medical imaging and site-safety computer vision**.
 
+* 🤖 **Final Year Project (in progress):** an **agentic AI order-fulfillment system** — LangGraph orchestration + local LLM turning WhatsApp/email orders into validated ERP transactions, with safety-first guardrails (the LLM never decides stock, computes totals, or commits orders)
 * 💼 **Part-Time Software Engineer @ Summit Company (M) Sdn Bhd** — maintaining the 4 production ERP modules I built as a Software Engineer Intern (they kept me on after the internship)
 * 📄 **First & corresponding author** of an ML evaluation manuscript under review at *Frontiers in Big Data* — auditing benchmark contamination in an oral-health screening pipeline
 * 🥽 Built an **AR site-safety system** as a summer research intern — two internships, one summer
@@ -34,7 +35,7 @@ Computer Science (AI) student at the **University of Nottingham Malaysia** (Clas
 
 ## 🛠️ Technology Stack
 
-**AI / ML:** Python · PyTorch · OpenCV · scikit-learn · YOLOv8 · Hugging Face Transformers · RAG
+**AI / ML:** Python · PyTorch · OpenCV · scikit-learn · YOLOv8 · LangGraph · Ollama · Hugging Face Transformers · RAG
 **Full-Stack:** PHP · Laravel · Vue.js · Next.js · Nuxt · TypeScript · JavaScript · Tailwind CSS · MySQL
 **Backend & DevOps:** FastAPI · Docker · Nginx · ONNX · Git · GitHub · Linux
 
@@ -102,7 +103,7 @@ Computer Science (AI) student at the **University of Nottingham Malaysia** (Clas
 </table>
 
 <div align="center">
-  <sub>Also pinned: <a href="https://github.com/VanVan120/Intrusion-Detection-System">🛡️ AI-optimized Intrusion Detection (99.84% acc, hybrid PSO-GA)</a> · <a href="https://github.com/VanVan120/Customer-Relationship-Management-CRM-System">🚀 Enterprise CRM</a></sub>
+  <sub>Also pinned: <a href="https://github.com/VanVan120/Intrusion-Detection-System">🛡️ AI-optimized Intrusion Detection (99.84% acc, hybrid PSO-GA)</a> · <a href="https://github.com/VanVan120/Customer-Relationship-Management-CRM-System">🚀 Enterprise CRM</a> · 🤖 Agentic Order Fulfillment (FYP, private during assessment)</sub>
 </div>
 
 ## 📊 GitHub Stats
